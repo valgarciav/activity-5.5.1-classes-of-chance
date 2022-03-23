@@ -9,7 +9,7 @@ myCasino.playGame(5);
 myCasino.playGame(15);
 myCasino.playGame(25);
 myCasino.playGame(35);
-
+//Activity 1
 // BONUS TESTS
 /*
 const myBonusCasino = new Casino("HackerU Bonus Casino", true);
